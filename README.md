@@ -2,5 +2,4 @@
 ## Dataset Setup
 
 1. Download the JSON file from Kaggle:  
-2. Place the file in the `data/` directory.  
-3. Run `python main.py` to start the project.  
+2. Download the  filtered JSON file from Kaggle:  
