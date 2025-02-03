@@ -1,0 +1,35 @@
+{
+    "Sleeping": {
+        "average_duration": 14217.451529
+    },
+    "Bed_to_Toilet": {
+        "average_duration": 163.885217
+    },
+    "Meal_Preparation": {
+        "average_duration": 470.306272
+    },
+    "Relax": {
+        "average_duration": 2010.556788
+    },
+    "Housekeeping": {
+        "average_duration": 1219.441077
+    },
+    "Eating": {
+        "average_duration": 609.561502
+    },
+    "Wash_Dishes": {
+        "average_duration": 429.727666
+    },
+    "Leave_Home": {
+        "average_duration": 6.369225
+    },
+    "Enter_Home": {
+        "average_duration": 6.799709
+    },
+    "Work": {
+        "average_duration": 1024.82775
+    },
+    "Respirate": {
+        "average_duration": 513.858464
+    }
+}

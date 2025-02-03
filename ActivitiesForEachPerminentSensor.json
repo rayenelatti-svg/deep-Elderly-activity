@@ -1,0 +1,243 @@
+{
+    "M019": {
+        "localization": "Kitchen",
+        "activities": {
+            "Meal_Preparation": {
+                "occurrence": 94573
+            },
+            "Housekeeping": {
+                "occurrence": 578
+            },
+            "Eating": {
+                "occurrence": 692
+            },
+            "Wash_Dishes": {
+                "occurrence": 3663
+            }
+        }
+    },
+    "M015": {
+        "localization": "Kitchen",
+        "activities": {
+            "Meal_Preparation": {
+                "occurrence": 64012
+            },
+            "Eating": {
+                "occurrence": 380
+            },
+            "Wash_Dishes": {
+                "occurrence": 2959
+            }
+        }
+    },
+    "M016": {
+        "localization": "Kitchen",
+        "activities": {
+            "Meal_Preparation": {
+                "occurrence": 16904
+            }
+        }
+    },
+    "M017": {
+        "localization": "Kitchen",
+        "activities": {
+            "Meal_Preparation": {
+                "occurrence": 27303
+            },
+            "Eating": {
+                "occurrence": 283
+            },
+            "Wash_Dishes": {
+                "occurrence": 876
+            }
+        }
+    },
+    "M021": {
+        "localization": "Couloir",
+        "activities": {
+            "Housekeeping": {
+                "occurrence": 650
+            }
+        }
+    },
+    "M020": {
+        "localization": "Living",
+        "activities": {
+            "Housekeeping": {
+                "occurrence": 1321
+            },
+            "Eating": {
+                "occurrence": 1081
+            },
+            "Relax": {
+                "occurrence": 23204
+            }
+        }
+    },
+    "M009": {
+        "localization": "Living",
+        "activities": {
+            "Housekeeping": {
+                "occurrence": 576
+            }
+        }
+    },
+    "M014": {
+        "localization": "Dining",
+        "activities": {
+            "Housekeeping": {
+                "occurrence": 731
+            }
+        }
+    },
+    "M007": {
+        "localization": "Bedroom",
+        "activities": {
+            "Housekeeping": {
+                "occurrence": 1048
+            },
+            "Bed_to_Toilet": {
+                "occurrence": 393
+            },
+            "Sleeping": {
+                "occurrence": 1994
+            }
+        }
+    },
+    "M024": {
+        "localization": "Bedroom",
+        "activities": {
+            "Housekeeping": {
+                "occurrence": 522
+            },
+            "Eating": {
+                "occurrence": 813
+            },
+            "Relax": {
+                "occurrence": 17245
+            },
+            "Work": {
+                "occurrence": 579
+            },
+            "Sleeping": {
+                "occurrence": 1344
+            }
+        }
+    },
+    "M018": {
+        "localization": "Kitchen",
+        "activities": {
+            "Eating": {
+                "occurrence": 820
+            }
+        }
+    },
+    "M030": {
+        "localization": "Bathroom",
+        "activities": {
+            "Enter_Home": {
+                "occurrence": 761
+            },
+            "Leave_Home": {
+                "occurrence": 491
+            }
+        }
+    },
+    "M029": {
+        "localization": "Bathroom",
+        "activities": {
+            "Enter_Home": {
+                "occurrence": 199
+            },
+            "Leave_Home": {
+                "occurrence": 374
+            }
+        }
+    },
+    "M022": {
+        "localization": "Couloir",
+        "activities": {
+            "Enter_Home": {
+                "occurrence": 82
+            },
+            "Leave_Home": {
+                "occurrence": 59
+            }
+        }
+    },
+    "M013": {
+        "localization": "Living",
+        "activities": {
+            "Relax": {
+                "occurrence": 31314
+            }
+        }
+    },
+    "M010": {
+        "localization": "Living",
+        "activities": {
+            "Relax": {
+                "occurrence": 11633
+            }
+        }
+    },
+    "M012": {
+        "localization": "Living",
+        "activities": {
+            "Relax": {
+                "occurrence": 6308
+            }
+        }
+    },
+    "M028": {
+        "localization": "Office",
+        "activities": {
+            "Work": {
+                "occurrence": 348
+            }
+        }
+    },
+    "M027": {
+        "localization": "Office",
+        "activities": {
+            "Work": {
+                "occurrence": 4290
+            },
+            "Respirate": {
+                "occurrence": 94
+            }
+        }
+    },
+    "M025": {
+        "localization": "Office",
+        "activities": {
+            "Work": {
+                "occurrence": 571
+            }
+        }
+    },
+    "M026": {
+        "localization": "Office",
+        "activities": {
+            "Respirate": {
+                "occurrence": 36
+            }
+        }
+    },
+    "M005": {
+        "localization": "Bedroom",
+        "activities": {
+            "Bed_to_Toilet": {
+                "occurrence": 218
+            }
+        }
+    },
+    "M002": {
+        "localization": "Bedroom",
+        "activities": {
+            "Sleeping": {
+                "occurrence": 3757
+            }
+        }
+    }
+}
