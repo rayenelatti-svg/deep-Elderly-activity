@@ -1,0 +1,57 @@
+[
+    {
+      "activity": "Sleeping",
+      "precedentActivities": ["Relax", "Bed_to_Toilet", "Sleeping", "Eating", "Enter_Home", "Work"],
+      "followingActivities": ["Meal_Preparation", "Bed_to_Toilet", "Relax", "Sleeping", "Leave_Home"]
+    },
+    {
+      "activity": "Bed_to_Toilet",
+      "precedentActivities": ["Sleeping", "Bed_to_Toilet", "Relax"],
+      "followingActivities": ["Sleeping", "Bed_to_Toilet", "Meal_Preparation", "Relax"]
+    },
+    {
+      "activity": "Meal_Preparation",
+      "precedentActivities": ["Meal_Preparation", "Relax", "Sleeping", "Enter_Home", "Work", "Eating", "Wash_Dishes", "Housekeeping", "Bed_to_Toilet", "Respirate"],
+      "followingActivities": ["Relax", "Meal_Preparation", "Eating", "Leave_Home", "Work", "Enter_Home", "Housekeeping", "Respirate"]
+    },
+    {
+      "activity": "Relax",
+      "precedentActivities": ["Relax", "Meal_Preparation", "Enter_Home", "Eating", "Work", "Wash_Dishes", "Sleeping", "Housekeeping", "Bed_to_Toilet", "Leave_Home", "Respirate"],
+      "followingActivities": ["Relax", "Meal_Preparation", "Sleeping", "Leave_Home", "Work", "Wash_Dishes", "Eating", "Housekeeping", "Enter_Home", "Bed_to_Toilet", "Respirate"]
+    },
+    {
+      "activity": "Housekeeping",
+      "precedentActivities": ["Relax", "Wash_Dishes", "Eating", "Enter_Home", "Meal_Preparation", "Work"],
+      "followingActivities": ["Leave_Home", "Relax", "Meal_Preparation", "Work", "Respirate"]
+    },
+    {
+      "activity": "Eating",
+      "precedentActivities": ["Meal_Preparation", "Eating", "Relax", "Enter_Home", "Work", "Wash_Dishes"],
+      "followingActivities": ["Relax", "Leave_Home", "Meal_Preparation", "Wash_Dishes", "Eating", "Work", "Sleeping", "Housekeeping"]
+    },
+    {
+      "activity": "Wash_Dishes",
+      "precedentActivities": ["Eating", "Relax", "Work"],
+      "followingActivities": ["Relax", "Leave_Home", "Meal_Preparation", "Work", "Housekeeping", "Eating"]
+    },
+    {
+      "activity": "Leave_Home",
+      "precedentActivities": ["Relax", "Enter_Home", "Meal_Preparation", "Eating", "Work", "Housekeeping", "Wash_Dishes", "Respirate", "Sleeping"],
+      "followingActivities": ["Enter_Home", "Relax"]
+    },
+    {
+      "activity": "Enter_Home",
+      "precedentActivities": ["Leave_Home", "Meal_Preparation", "Relax"],
+      "followingActivities": ["Meal_Preparation", "Relax", "Leave_Home", "Work", "Eating", "Sleeping", "Housekeeping", "Respirate"]
+    },
+    {
+      "activity": "Work",
+      "precedentActivities": ["Relax", "Work", "Meal_Preparation", "Enter_Home", "Eating", "Wash_Dishes", "Housekeeping"],
+      "followingActivities": ["Relax", "Meal_Preparation", "Work", "Leave_Home", "Eating", "Sleeping", "Wash_Dishes", "Housekeeping", "Respirate"]
+    },
+    {
+      "activity": "Respirate",
+      "precedentActivities": ["Enter_Home", "Housekeeping", "Meal_Preparation", "Relax", "Work"],
+      "followingActivities": ["Meal_Preparation", "Relax", "Leave_Home"]
+    }
+  ]

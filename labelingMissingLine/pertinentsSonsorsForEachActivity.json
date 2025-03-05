@@ -1,0 +1,66 @@
+{
+  "Meal_Preparation": {
+    "M019": {"occurrence": "94573", "localization": "Kitchen"},
+    "M015": {"occurrence": "64012", "localization": "Kitchen"},
+    "M016": {"occurrence": "16904", "localization": "Kitchen"},
+    "M017": {"occurrence": "27303", "localization": "Kitchen"}
+  },
+  "Housekeeping": {
+    "M021": {"occurrence": "650", "localization": "Couloir"},
+    "M020": {"occurrence": "1321", "localization": "Living"},
+    "M009": {"occurrence": "576", "localization": "Living"},
+    "M014": {"occurrence": "731", "localization": "Dining"},
+    "M007": {"occurrence": "1048", "localization": "Bedroom"},
+    "M019": {"occurrence": "578", "localization": "Kitchen"},
+    "M024": {"occurrence": "522", "localization": "Bedroom"}
+  },
+  "Eating": {
+    "M020": {"occurrence": "1081", "localization": "Living"},
+    "M019": {"occurrence": "692", "localization": "Kitchen"},
+    "M018": {"occurrence": "820", "localization": "Kitchen"},
+    "M017": {"occurrence": "283", "localization": "Kitchen"},
+    "M015": {"occurrence": "380", "localization": "Kitchen"},
+    "M024": {"occurrence": "813", "localization": "Bedroom"}
+  },
+  "Enter_Home": {
+    "M030": {"occurrence": "761", "localization": "Bathroom"},
+    "M029": {"occurrence": "199", "localization": "Bathroom"},
+    "M022": {"occurrence": "82", "localization": "Couloir"}
+  },
+  "Relax": {
+    "M020": {"occurrence": "23204", "localization": "Living"},
+    "M013": {"occurrence": "31314", "localization": "Living"},
+    "M010": {"occurrence": "11633", "localization": "Living"},
+    "M012": {"occurrence": "6308", "localization": "Living"},
+    "M024": {"occurrence": "17245", "localization": "Bedroom"}
+  },
+  "Work": {
+    "M028": {"occurrence": "348", "localization": "Office"},
+    "M027": {"occurrence": "4290", "localization": "Office"},
+    "M025": {"occurrence": "571", "localization": "Office"},
+    "M024": {"occurrence": "579", "localization": "Bedroom"}
+  },
+  "Respirate": {
+    "M027": {"occurrence": "94", "localization": "Office"},
+    "M026": {"occurrence": "36", "localization": "Office"}
+  },
+  "Wash_Dishes": {
+    "M017": {"occurrence": "876", "localization": "Kitchen"},
+    "M019": {"occurrence": "3663", "localization": "Kitchen"},
+    "M015": {"occurrence": "2959", "localization": "Kitchen"}
+  },
+  "Leave_Home": {
+    "M030": {"occurrence": "491", "localization": "Bathroom"},
+    "M022": {"occurrence": "59", "localization": "Couloir"},
+    "M029": {"occurrence": "374", "localization": "Bathroom"}
+  },
+  "Bed_to_Toilet": {
+    "M005": {"occurrence": "218", "localization": "Bedroom"},
+    "M007": {"occurrence": "393", "localization": "Bedroom"}
+  },
+  "Sleeping": {
+    "M002": {"occurrence": "3757", "localization": "Bedroom"},
+    "M007": {"occurrence": "1994", "localization": "Bedroom"},
+    "M024": {"occurrence": "1344", "localization": "Bedroom"}
+  }
+}
