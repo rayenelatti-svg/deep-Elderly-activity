@@ -24,13 +24,13 @@ activities = {
     "Respirate,begin": set(),
     "Respirate,end": set()
 }
-with open("M_sensors.json", "r") as file:
+with open("M_and_D_sensors.json", "r") as file:
     data = json.load(file)
 
 # Apply validation and modification
 for d in data:
-    if d['description'] in activities:
-        activities[d['description']].add(d['sensor'])
+    if d['activity'] in activities:
+        activities[d['activity']].add(d['sensor'])
 
 with open("sonsorsForEachActivities.json", "w") as file:
     json.dump({k: list(v) for k, v in activities.items()}, file, indent=4)

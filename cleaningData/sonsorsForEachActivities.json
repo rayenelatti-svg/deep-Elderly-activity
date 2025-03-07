@@ -1,0 +1,115 @@
+{
+    "Meal_Preparation,begin": [
+        "M020",
+        "M019",
+        "M015",
+        "M017",
+        "M018"
+    ],
+    "Meal_Preparation,end": [
+        "M014",
+        "M008",
+        "M019",
+        "M015",
+        "M017",
+        "M018"
+    ],
+    "Relax,begin": [
+        "M010",
+        "M008",
+        "M012",
+        "M013",
+        "M009",
+        "M018"
+    ],
+    "Relax,end": [
+        "M010",
+        "M012",
+        "M013",
+        "M009",
+        "M006",
+        "M018"
+    ],
+    "Eating,begin": [
+        "M014"
+    ],
+    "Eating,end": [
+        "M014"
+    ],
+    "Work,begin": [
+        "M026"
+    ],
+    "Work,end": [
+        "M026",
+        "M027",
+        "M028"
+    ],
+    "Sleeping,begin": [
+        "M003"
+    ],
+    "Sleeping,end": [
+        "M003",
+        "M005",
+        "M002",
+        "M007"
+    ],
+    "Wash_Dishes,begin": [
+        "M019",
+        "M015",
+        "M018"
+    ],
+    "Wash_Dishes,end": [
+        "M019",
+        "M018"
+    ],
+    "Bed_to_Toilet,begin": [
+        "M005",
+        "M004"
+    ],
+    "Bed_to_Toilet,end": [
+        "M004"
+    ],
+    "Enter_Home,begin": [
+        "M030",
+        "M029",
+        "D004",
+        "D002"
+    ],
+    "Enter_Home,end": [
+        "D004",
+        "M006",
+        "D002"
+    ],
+    "Leave_Home,begin": [
+        "M030",
+        "D004",
+        "M029",
+        "D002",
+        "M016"
+    ],
+    "Leave_Home,end": [
+        "M030",
+        "D004",
+        "D002"
+    ],
+    "Housekeeping,begin": [
+        "M031",
+        "M020",
+        "M013",
+        "M008"
+    ],
+    "Housekeeping,end": [
+        "M031",
+        "M020",
+        "M013",
+        "M014"
+    ],
+    "Respirate,begin": [
+        "M025",
+        "M026"
+    ],
+    "Respirate,end": [
+        "M025",
+        "M026"
+    ]
+}

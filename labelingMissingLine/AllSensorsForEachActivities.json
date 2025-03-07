@@ -1,0 +1,1008 @@
+{
+  "Meal_Preparation": {
+    "M019": {
+      "occurrence": "94573",
+      "localization": "Kitchen"
+    },
+    "M015": {
+      "occurrence": "64012",
+      "localization": "Kitchen"
+    },
+    "M016": {
+      "occurrence": "16904",
+      "localization": "Kitchen"
+    },
+    "M020": {
+      "occurrence": "8224",
+      "localization": "Living"
+    },
+    "M017": {
+      "occurrence": "27303",
+      "localization": "Kitchen"
+    },
+    "M021": {
+      "occurrence": "4365",
+      "localization": "Couloir"
+    },
+    "M014": {
+      "occurrence": "12417",
+      "localization": "Dining"
+    },
+    "M013": {
+      "occurrence": "2860",
+      "localization": "Living"
+    },
+    "M022": {
+      "occurrence": "2592",
+      "localization": "Couloir"
+    },
+    "M029": {
+      "occurrence": "508",
+      "localization": "Bathroom"
+    },
+    "M028": {
+      "occurrence": "435",
+      "localization": "Office"
+    },
+    "D004": {
+      "occurrence": "380",
+      "localization": "Unknown"
+    },
+    "M030": {
+      "occurrence": "511",
+      "localization": "Bathroom"
+    },
+    "M023": {
+      "occurrence": "1697",
+      "localization": "Bedroom"
+    },
+    "D002": {
+      "occurrence": "107",
+      "localization": "Unknown"
+    },
+    "M018": {
+      "occurrence": "176",
+      "localization": "Kitchen"
+    },
+    "M009": {
+      "occurrence": "3681",
+      "localization": "Living"
+    },
+    "M008": {
+      "occurrence": "838",
+      "localization": "Bedroom"
+    },
+    "M010": {
+      "occurrence": "1156",
+      "localization": "Living"
+    },
+    "M012": {
+      "occurrence": "1225",
+      "localization": "Living"
+    },
+    "M006": {
+      "occurrence": "337",
+      "localization": "Bedroom"
+    },
+    "M007": {
+      "occurrence": "333",
+      "localization": "Bedroom"
+    },
+    "M004": {
+      "occurrence": "181",
+      "localization": "Bathroom"
+    },
+    "M005": {
+      "occurrence": "187",
+      "localization": "Bedroom"
+    },
+    "M026": {
+      "occurrence": "830",
+      "localization": "Office"
+    },
+    "M027": {
+      "occurrence": "392",
+      "localization": "Office"
+    },
+    "M025": {
+      "occurrence": "201",
+      "localization": "Office"
+    },
+    "M011": {
+      "occurrence": "162",
+      "localization": "Living"
+    },
+    "D001": {
+      "occurrence": "31",
+      "localization": "Unknown"
+    },
+    "M031": {
+      "occurrence": "74",
+      "localization": "Bathroom"
+    },
+    "M024": {
+      "occurrence": "7729",
+      "localization": "Bedroom"
+    },
+    "M003": {
+      "occurrence": "14",
+      "localization": "Bedroom"
+    },
+    "M002": {
+      "occurrence": "2",
+      "localization": "Bedroom"
+    },
+    "M001": {
+      "occurrence": "24",
+      "localization": "Bedroom"
+    }
+  },
+  "Housekeeping": {
+    "M021": {
+      "occurrence": "650",
+      "localization": "Couloir"
+    },
+    "M020": {
+      "occurrence": "1321",
+      "localization": "Living"
+    },
+    "M013": {
+      "occurrence": "436",
+      "localization": "Living"
+    },
+    "M009": {
+      "occurrence": "576",
+      "localization": "Living"
+    },
+    "M012": {
+      "occurrence": "238",
+      "localization": "Living"
+    },
+    "M018": {
+      "occurrence": "451",
+      "localization": "Kitchen"
+    },
+    "M014": {
+      "occurrence": "731",
+      "localization": "Dining"
+    },
+    "M017": {
+      "occurrence": "196",
+      "localization": "Kitchen"
+    },
+    "M008": {
+      "occurrence": "396",
+      "localization": "Bedroom"
+    },
+    "M007": {
+      "occurrence": "1048",
+      "localization": "Bedroom"
+    },
+    "M003": {
+      "occurrence": "114",
+      "localization": "Bedroom"
+    },
+    "M006": {
+      "occurrence": "308",
+      "localization": "Bedroom"
+    },
+    "M019": {
+      "occurrence": "578",
+      "localization": "Kitchen"
+    },
+    "M015": {
+      "occurrence": "356",
+      "localization": "Kitchen"
+    },
+    "M016": {
+      "occurrence": "80",
+      "localization": "Kitchen"
+    },
+    "M027": {
+      "occurrence": "58",
+      "localization": "Office"
+    },
+    "M005": {
+      "occurrence": "462",
+      "localization": "Bedroom"
+    },
+    "M026": {
+      "occurrence": "96",
+      "localization": "Office"
+    },
+    "M004": {
+      "occurrence": "256",
+      "localization": "Bathroom"
+    },
+    "M010": {
+      "occurrence": "295",
+      "localization": "Living"
+    },
+    "M022": {
+      "occurrence": "275",
+      "localization": "Couloir"
+    },
+    "M001": {
+      "occurrence": "166",
+      "localization": "Bedroom"
+    },
+    "M023": {
+      "occurrence": "124",
+      "localization": "Bedroom"
+    },
+    "M024": {
+      "occurrence": "522",
+      "localization": "Bedroom"
+    },
+    "M028": {
+      "occurrence": "66",
+      "localization": "Office"
+    },
+    "M011": {
+      "occurrence": "66",
+      "localization": "Living"
+    },
+    "D001": {
+      "occurrence": "14",
+      "localization": "Unknown"
+    },
+    "M029": {
+      "occurrence": "76",
+      "localization": "Bathroom"
+    },
+    "M025": {
+      "occurrence": "22",
+      "localization": "Office"
+    },
+    "M002": {
+      "occurrence": "14",
+      "localization": "Bedroom"
+    },
+    "M030": {
+      "occurrence": "16",
+      "localization": "Bathroom"
+    },
+    "D004": {
+      "occurrence": "8",
+      "localization": "Unknown"
+    },
+    "D002": {
+      "occurrence": "2",
+      "localization": "Unknown"
+    }
+  },
+  "Eating": {
+    "M013": {
+      "occurrence": "271",
+      "localization": "Living"
+    },
+    "M020": {
+      "occurrence": "1081",
+      "localization": "Living"
+    },
+    "M019": {
+      "occurrence": "692",
+      "localization": "Kitchen"
+    },
+    "M018": {
+      "occurrence": "820",
+      "localization": "Kitchen"
+    },
+    "M021": {
+      "occurrence": "255",
+      "localization": "Couloir"
+    },
+    "M009": {
+      "occurrence": "184",
+      "localization": "Living"
+    },
+    "M006": {
+      "occurrence": "14",
+      "localization": "Bedroom"
+    },
+    "M008": {
+      "occurrence": "37",
+      "localization": "Bedroom"
+    },
+    "M017": {
+      "occurrence": "283",
+      "localization": "Kitchen"
+    },
+    "M015": {
+      "occurrence": "380",
+      "localization": "Kitchen"
+    },
+    "M010": {
+      "occurrence": "76",
+      "localization": "Living"
+    },
+    "M004": {
+      "occurrence": "4",
+      "localization": "Bathroom"
+    },
+    "M007": {
+      "occurrence": "10",
+      "localization": "Bedroom"
+    },
+    "M012": {
+      "occurrence": "55",
+      "localization": "Living"
+    },
+    "M028": {
+      "occurrence": "23",
+      "localization": "Office"
+    },
+    "M016": {
+      "occurrence": "121",
+      "localization": "Kitchen"
+    },
+    "M024": {
+      "occurrence": "813",
+      "localization": "Bedroom"
+    },
+    "M022": {
+      "occurrence": "132",
+      "localization": "Couloir"
+    },
+    "M023": {
+      "occurrence": "78",
+      "localization": "Bedroom"
+    },
+    "M003": {
+      "occurrence": "2",
+      "localization": "Bedroom"
+    },
+    "M011": {
+      "occurrence": "58",
+      "localization": "Living"
+    },
+    "M029": {
+      "occurrence": "44",
+      "localization": "Bathroom"
+    },
+    "M026": {
+      "occurrence": "6",
+      "localization": "Office"
+    },
+    "M027": {
+      "occurrence": "2",
+      "localization": "Office"
+    },
+    "M005": {
+      "occurrence": "6",
+      "localization": "Bedroom"
+    },
+    "D004": {
+      "occurrence": "12",
+      "localization": "Unknown"
+    },
+    "M030": {
+      "occurrence": "12",
+      "localization": "Bathroom"
+    },
+    "D002": {
+      "occurrence": "4",
+      "localization": "Unknown"
+    },
+    "D001": {
+      "occurrence": "25",
+      "localization": "Unknown"
+    }
+  },
+  "Enter_Home": {
+    "M030": {
+      "occurrence": "761",
+      "localization": "Bathroom"
+    },
+    "M029": {
+      "occurrence": "199",
+      "localization": "Bathroom"
+    },
+    "M016": {
+      "occurrence": "2",
+      "localization": "Kitchen"
+    },
+    "M022": {
+      "occurrence": "82",
+      "localization": "Couloir"
+    },
+    "M021": {
+      "occurrence": "20",
+      "localization": "Couloir"
+    },
+    "M028": {
+      "occurrence": "40",
+      "localization": "Office"
+    },
+    "M014": {
+      "occurrence": "14",
+      "localization": "Dining"
+    },
+    "M023": {
+      "occurrence": "20",
+      "localization": "Bedroom"
+    },
+    "M018": {
+      "occurrence": "2",
+      "localization": "Kitchen"
+    },
+    "M019": {
+      "occurrence": "2",
+      "localization": "Kitchen"
+    },
+    "M024": {
+      "occurrence": "4",
+      "localization": "Bedroom"
+    }
+  },
+  "Relax": {
+    "M020": {
+      "occurrence": "23204",
+      "localization": "Living"
+    },
+    "M013": {
+      "occurrence": "31314",
+      "localization": "Living"
+    },
+    "M010": {
+      "occurrence": "11633",
+      "localization": "Living"
+    },
+    "M012": {
+      "occurrence": "6308",
+      "localization": "Living"
+    },
+    "M009": {
+      "occurrence": "795",
+      "localization": "Living"
+    },
+    "M026": {
+      "occurrence": "1612",
+      "localization": "Office"
+    },
+    "M021": {
+      "occurrence": "2278",
+      "localization": "Couloir"
+    },
+    "M014": {
+      "occurrence": "4120",
+      "localization": "Dining"
+    },
+    "M024": {
+      "occurrence": "17245",
+      "localization": "Bedroom"
+    },
+    "M023": {
+      "occurrence": "1520",
+      "localization": "Bedroom"
+    },
+    "M029": {
+      "occurrence": "483",
+      "localization": "Bathroom"
+    },
+    "M022": {
+      "occurrence": "1784",
+      "localization": "Couloir"
+    },
+    "M018": {
+      "occurrence": "2207",
+      "localization": "Kitchen"
+    },
+    "M019": {
+      "occurrence": "2687",
+      "localization": "Kitchen"
+    },
+    "M016": {
+      "occurrence": "867",
+      "localization": "Kitchen"
+    },
+    "M015": {
+      "occurrence": "1733",
+      "localization": "Kitchen"
+    },
+    "M017": {
+      "occurrence": "833",
+      "localization": "Kitchen"
+    },
+    "M008": {
+      "occurrence": "713",
+      "localization": "Bedroom"
+    },
+    "M006": {
+      "occurrence": "378",
+      "localization": "Bedroom"
+    },
+    "M007": {
+      "occurrence": "596",
+      "localization": "Bedroom"
+    },
+    "M005": {
+      "occurrence": "334",
+      "localization": "Bedroom"
+    },
+    "M004": {
+      "occurrence": "176",
+      "localization": "Bathroom"
+    },
+    "M027": {
+      "occurrence": "837",
+      "localization": "Office"
+    },
+    "M028": {
+      "occurrence": "493",
+      "localization": "Office"
+    },
+    "M011": {
+      "occurrence": "111",
+      "localization": "Living"
+    },
+    "M025": {
+      "occurrence": "416",
+      "localization": "Office"
+    },
+    "M030": {
+      "occurrence": "367",
+      "localization": "Bathroom"
+    },
+    "M003": {
+      "occurrence": "80",
+      "localization": "Bedroom"
+    },
+    "M002": {
+      "occurrence": "99",
+      "localization": "Bedroom"
+    },
+    "D004": {
+      "occurrence": "265",
+      "localization": "Unknown"
+    },
+    "M001": {
+      "occurrence": "149",
+      "localization": "Bedroom"
+    },
+    "D001": {
+      "occurrence": "16",
+      "localization": "Unknown"
+    },
+    "M031": {
+      "occurrence": "30",
+      "localization": "Bathroom"
+    },
+    "D002": {
+      "occurrence": "17",
+      "localization": "Unknown"
+    }
+  },
+  "Work": {
+    "M022": {
+      "occurrence": "149",
+      "localization": "Couloir"
+    },
+    "M028": {
+      "occurrence": "348",
+      "localization": "Office"
+    },
+    "M027": {
+      "occurrence": "4290",
+      "localization": "Office"
+    },
+    "M023": {
+      "occurrence": "27",
+      "localization": "Bedroom"
+    },
+    "M025": {
+      "occurrence": "571",
+      "localization": "Office"
+    },
+    "M021": {
+      "occurrence": "17",
+      "localization": "Couloir"
+    },
+    "M018": {
+      "occurrence": "5",
+      "localization": "Kitchen"
+    },
+    "M019": {
+      "occurrence": "3",
+      "localization": "Kitchen"
+    },
+    "D004": {
+      "occurrence": "15",
+      "localization": "Unknown"
+    },
+    "M030": {
+      "occurrence": "20",
+      "localization": "Bathroom"
+    },
+    "M004": {
+      "occurrence": "3",
+      "localization": "Bathroom"
+    },
+    "M007": {
+      "occurrence": "10",
+      "localization": "Bedroom"
+    },
+    "M029": {
+      "occurrence": "26",
+      "localization": "Bathroom"
+    },
+    "M005": {
+      "occurrence": "4",
+      "localization": "Bedroom"
+    },
+    "M020": {
+      "occurrence": "13",
+      "localization": "Living"
+    },
+    "M013": {
+      "occurrence": "6",
+      "localization": "Living"
+    },
+    "M014": {
+      "occurrence": "4",
+      "localization": "Dining"
+    },
+    "M001": {
+      "occurrence": "2",
+      "localization": "Bedroom"
+    },
+    "M024": {
+      "occurrence": "579",
+      "localization": "Bedroom"
+    },
+    "M015": {
+      "occurrence": "4",
+      "localization": "Kitchen"
+    }
+  },
+  "Respirate": {
+    "M022": {
+      "occurrence": "6",
+      "localization": "Couloir"
+    },
+    "M028": {
+      "occurrence": "7",
+      "localization": "Office"
+    },
+    "M027": {
+      "occurrence": "94",
+      "localization": "Office"
+    },
+    "M025": {
+      "occurrence": "6",
+      "localization": "Office"
+    },
+    "M026": {
+      "occurrence": "36",
+      "localization": "Office"
+    }
+  },
+  "Wash_Dishes": {
+    "M020": {
+      "occurrence": "203",
+      "localization": "Living"
+    },
+    "M014": {
+      "occurrence": "383",
+      "localization": "Dining"
+    },
+    "M017": {
+      "occurrence": "876",
+      "localization": "Kitchen"
+    },
+    "M019": {
+      "occurrence": "3663",
+      "localization": "Kitchen"
+    },
+    "M015": {
+      "occurrence": "2959",
+      "localization": "Kitchen"
+    },
+    "M021": {
+      "occurrence": "87",
+      "localization": "Couloir"
+    },
+    "M008": {
+      "occurrence": "12",
+      "localization": "Bedroom"
+    },
+    "M016": {
+      "occurrence": "406",
+      "localization": "Kitchen"
+    },
+    "M013": {
+      "occurrence": "46",
+      "localization": "Living"
+    },
+    "M022": {
+      "occurrence": "38",
+      "localization": "Couloir"
+    },
+    "M023": {
+      "occurrence": "6",
+      "localization": "Bedroom"
+    },
+    "M028": {
+      "occurrence": "23",
+      "localization": "Office"
+    },
+    "M026": {
+      "occurrence": "26",
+      "localization": "Office"
+    },
+    "M006": {
+      "occurrence": "6",
+      "localization": "Bedroom"
+    },
+    "M007": {
+      "occurrence": "5",
+      "localization": "Bedroom"
+    },
+    "M005": {
+      "occurrence": "2",
+      "localization": "Bedroom"
+    },
+    "M004": {
+      "occurrence": "3",
+      "localization": "Bathroom"
+    },
+    "D004": {
+      "occurrence": "4",
+      "localization": "Unknown"
+    },
+    "M030": {
+      "occurrence": "8",
+      "localization": "Bathroom"
+    },
+    "M029": {
+      "occurrence": "19",
+      "localization": "Bathroom"
+    },
+    "M027": {
+      "occurrence": "16",
+      "localization": "Office"
+    },
+    "M025": {
+      "occurrence": "14",
+      "localization": "Office"
+    },
+    "M012": {
+      "occurrence": "8",
+      "localization": "Living"
+    },
+    "M024": {
+      "occurrence": "94",
+      "localization": "Bedroom"
+    },
+    "M010": {
+      "occurrence": "2",
+      "localization": "Living"
+    },
+    "M018": {
+      "occurrence": "14",
+      "localization": "Kitchen"
+    },
+    "M009": {
+      "occurrence": "22",
+      "localization": "Living"
+    },
+    "M003": {
+      "occurrence": "2",
+      "localization": "Bedroom"
+    }
+  },
+  "Leave_Home": {
+    "M030": {
+      "occurrence": "491",
+      "localization": "Bathroom"
+    },
+    "M028": {
+      "occurrence": "26",
+      "localization": "Office"
+    },
+    "M023": {
+      "occurrence": "10",
+      "localization": "Bedroom"
+    },
+    "M022": {
+      "occurrence": "59",
+      "localization": "Couloir"
+    },
+    "M029": {
+      "occurrence": "374",
+      "localization": "Bathroom"
+    },
+    "M026": {
+      "occurrence": "4",
+      "localization": "Office"
+    },
+    "M027": {
+      "occurrence": "2",
+      "localization": "Office"
+    },
+    "M025": {
+      "occurrence": "2",
+      "localization": "Office"
+    },
+    "M019": {
+      "occurrence": "4",
+      "localization": "Kitchen"
+    },
+    "M021": {
+      "occurrence": "28",
+      "localization": "Couloir"
+    },
+    "M020": {
+      "occurrence": "15",
+      "localization": "Living"
+    },
+    "M018": {
+      "occurrence": "6",
+      "localization": "Kitchen"
+    },
+    "M014": {
+      "occurrence": "21",
+      "localization": "Dining"
+    },
+    "M013": {
+      "occurrence": "4",
+      "localization": "Living"
+    },
+    "M012": {
+      "occurrence": "4",
+      "localization": "Living"
+    },
+    "M008": {
+      "occurrence": "4",
+      "localization": "Bedroom"
+    },
+    "M006": {
+      "occurrence": "2",
+      "localization": "Bedroom"
+    }
+  },
+  "Bed_to_Toilet": {
+    "M005": {
+      "occurrence": "218",
+      "localization": "Bedroom"
+    },
+    "M007": {
+      "occurrence": "393",
+      "localization": "Bedroom"
+    }
+  },
+  "Sleeping": {
+    "M002": {
+      "occurrence": "3757",
+      "localization": "Bedroom"
+    },
+    "M007": {
+      "occurrence": "1994",
+      "localization": "Bedroom"
+    },
+    "M005": {
+      "occurrence": "118",
+      "localization": "Bedroom"
+    },
+    "M016": {
+      "occurrence": "40",
+      "localization": "Kitchen"
+    },
+    "M006": {
+      "occurrence": "153",
+      "localization": "Bedroom"
+    },
+    "M022": {
+      "occurrence": "71",
+      "localization": "Couloir"
+    },
+    "M030": {
+      "occurrence": "32",
+      "localization": "Bathroom"
+    },
+    "M001": {
+      "occurrence": "71",
+      "localization": "Bedroom"
+    },
+    "M004": {
+      "occurrence": "44",
+      "localization": "Bathroom"
+    },
+    "M023": {
+      "occurrence": "133",
+      "localization": "Bedroom"
+    },
+    "M010": {
+      "occurrence": "34",
+      "localization": "Living"
+    },
+    "M026": {
+      "occurrence": "32",
+      "localization": "Office"
+    },
+    "M015": {
+      "occurrence": "30",
+      "localization": "Kitchen"
+    },
+    "M017": {
+      "occurrence": "44",
+      "localization": "Kitchen"
+    },
+    "M028": {
+      "occurrence": "36",
+      "localization": "Office"
+    },
+    "M009": {
+      "occurrence": "42",
+      "localization": "Living"
+    },
+    "M008": {
+      "occurrence": "56",
+      "localization": "Bedroom"
+    },
+    "M014": {
+      "occurrence": "38",
+      "localization": "Dining"
+    },
+    "M018": {
+      "occurrence": "52",
+      "localization": "Kitchen"
+    },
+    "M025": {
+      "occurrence": "32",
+      "localization": "Office"
+    },
+    "M029": {
+      "occurrence": "58",
+      "localization": "Bathroom"
+    },
+    "M011": {
+      "occurrence": "30",
+      "localization": "Living"
+    },
+    "M012": {
+      "occurrence": "30",
+      "localization": "Living"
+    },
+    "M031": {
+      "occurrence": "30",
+      "localization": "Bathroom"
+    },
+    "M013": {
+      "occurrence": "46",
+      "localization": "Living"
+    },
+    "M024": {
+      "occurrence": "1344",
+      "localization": "Bedroom"
+    },
+    "M021": {
+      "occurrence": "52",
+      "localization": "Couloir"
+    },
+    "M027": {
+      "occurrence": "32",
+      "localization": "Office"
+    },
+    "M019": {
+      "occurrence": "44",
+      "localization": "Kitchen"
+    },
+    "M020": {
+      "occurrence": "71",
+      "localization": "Living"
+    },
+    "D004": {
+      "occurrence": "24",
+      "localization": "Unknown"
+    },
+    "D002": {
+      "occurrence": "6",
+      "localization": "Unknown"
+    },
+    "D001": {
+      "occurrence": "6",
+      "localization": "Unknown"
+    }
+  }
+}
